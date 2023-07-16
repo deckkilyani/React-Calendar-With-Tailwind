@@ -2,7 +2,7 @@ import Calendar from "./Calendar";
 
 const App = () => {
   return (
-    <div>
+    <div className="flex justify-center items-center h-screen">
       <Calendar />
     </div>
   );
